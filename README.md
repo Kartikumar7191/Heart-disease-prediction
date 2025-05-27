@@ -85,9 +85,6 @@ Evaluation metrics used:
 
 1. *Clone the repository*
 
-   bash
-   git clone https://github.com/yourusername/Heart-Disease-Prediction.git
-   cd Heart-Disease-Prediction
    
 
 2. *Install required packages*
